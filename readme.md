@@ -38,8 +38,8 @@ Frontend (React):
 ```bash
 cd frontend
 npm install
-Backend (Node + Express):
 ```
+Backend (Node + Express):
 ```bash
 
 cd backend
