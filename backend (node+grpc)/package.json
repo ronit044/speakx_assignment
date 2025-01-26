@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build": "npm install"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.7.13",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.9.5",
+    "protobufjs": "^7.4.0",
+    "ts-proto": "^2.6.1"
+  },
+  "devDependencies": {
+    "@grpc/grpc-js": "^1.12.5",
+    "google-protobuf": "^3.21.4",
+    "grpc_tools_node_protoc_ts": "^5.3.3",
+    "grpc-tools": "^1.12.4"
+  }
+}
