@@ -59,7 +59,7 @@ Navigate to the frontend folder and run the following command:
 cd frontend
 npm run dev
 ```
-This will start the development server at http://localhost:3000 (by default).
+This will start the development server at http://localhost:5173 (by default).
 Start the Backend (Node + Express)
 Navigate to the backend folder and run the following command:
 ```bash
